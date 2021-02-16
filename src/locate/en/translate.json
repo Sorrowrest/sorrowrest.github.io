@@ -1,0 +1,29 @@
+{
+    "translations": {
+        
+        "header": {
+            "left": "profile",
+            "center": "skills",
+            "right": "contact"
+        },
+        "main": {
+              "greeting": "Hi",
+              "perform": "I am Vasilkova Anastasia."
+        },
+        "but": {
+            "a":"learn ♡"
+        },
+        "profile": {
+            "h":"profile",
+            "name":"Anastasia Vasilkova",
+            "info":"Let me introduce myself. I am 19 years old. I'm second-year student of Ivanovo State University of Chemistry and Technology on faculty of Engineering, Managment and Digital Infrastructure of group №42. In August 2019 I began to learning the site layout, but during my studies I paid less attention to this. Since the new year I delved into the studing JavaScript, Node.js and React. I try to develop in this direction, I'm interested in front-end development. From my main qualities I can single out purposefulness, learning ability and curiosity. In the future I want to become a professional programmer.  ",
+            "why": "Why Akvelon?",
+            "akvelon": "At the beginning of the studing, our group leaded on the excursion to the Akvelon office, I liked it there. I believe that in this company you can gain valuable experience and become a true professional in programming.",
+            "skill": "Skills",
+            "contact": "Contact me",
+            "tele": "phone:",
+            "mail": "email:",
+            "net": "social networks"
+        }
+    }
+}
