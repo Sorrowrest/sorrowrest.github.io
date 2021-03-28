@@ -409,9 +409,9 @@ h3::after {
 }
 .Avatar img {
   position: relative;
-  max-width: 120%;
-  right: 40px;
-  bottom: 65px;
+  max-width: 140%;
+  right: 60px;
+  bottom: 5px;
   z-index: 5;
 }
 .Main h4 {

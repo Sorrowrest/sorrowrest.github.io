@@ -42,8 +42,6 @@ render() {
          <div className="Avatar"><img src={avatar} alt="me"/> </div>
          <h4 >{t('profile.name')}</h4>
          <p >{t('profile.info')}</p>
-         <p >{t('profile.why')}</p>
-         <p>{t('profile.akvelon')}</p>
         <div className="LineSpacer"></div>
         <h5>{t('profile.skill')}</h5>
         <div className="skills" id='ski'>
@@ -53,11 +51,8 @@ render() {
         <div className="skill-item green">Node</div>
         <div className="skill-item blu">React</div>
         <div className="skill-item cyan">Git</div>
-        <div className="skill-item purple">C#</div>
-        <div className="skill-item orang">ES6</div>
+        <div className="skill-item purple">ES6</div>
         <div className="skill-item red">JQuery</div>
-        <div className="skill-item yel">Sass</div>
-        <div className="skill-item green"><a href="https://stepik.org/cert/269739" >C++</a></div>
         </div>
         <div className="LineSpacer"></div>
         
